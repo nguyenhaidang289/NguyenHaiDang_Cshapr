@@ -1,0 +1,4 @@
+E:\nguyenhaidangDEV\lession25\lab_04\lab_04\obj\Debug\net8.0\lab_04.GeneratedMSBuildEditorConfig.editorconfig
+E:\nguyenhaidangDEV\lession25\lab_04\lab_04\obj\Debug\net8.0\lab_04.AssemblyInfoInputs.cache
+E:\nguyenhaidangDEV\lession25\lab_04\lab_04\obj\Debug\net8.0\lab_04.AssemblyInfo.cs
+E:\nguyenhaidangDEV\lession25\lab_04\lab_04\obj\Debug\net8.0\lab_04.csproj.CoreCompileInputs.cache
